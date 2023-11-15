@@ -10,6 +10,38 @@
     }
 }
 
+.text-magenta-01 {
+    color: hsl(300, 43%, 22%);
+}
+
+.text-magenta-02 {
+    color: hsl(303, 10%, 53%);
+}
+
+.text-magenta-03 {
+    color: hsl(300, 24%, 96%);
+}
+
+.text-pink-01 {
+    color: hsl(333, 80%, 67%);
+}
+
+.bg-magenta-01 {
+    background-color: hsl(300, 43%, 22%);
+}
+
+.bg-magenta-02 {
+    background-color: hsl(303, 10%, 53%);
+}
+
+.bg-magenta-03 {
+    background-color: hsl(300, 24%, 96%);
+}
+
+.bg-pink-01 {
+    background-color: hsl(333, 80%, 67%);
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
